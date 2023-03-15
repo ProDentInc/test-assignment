@@ -22,6 +22,7 @@
     * Получение [всех пользователей списком](https://lighthouse-php.com/5/api-reference/directives.html#all);
     * Получение пользователя [по ID](https://lighthouse-php.com/5/api-reference/directives.html#find).
 * [Создать GraphQL мутацию](https://lighthouse-php.com/master/the-basics/fields.html#fields-with-arguments) для создания пользователя вместе с новой специализацией.
+* Авторизацию реализовывать не нужно
 
 ### Необязательное
 
